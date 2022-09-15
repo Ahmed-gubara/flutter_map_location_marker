@@ -10,8 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_compass: ^0.7.0
-  flutter_map: #^3.0.0
-    git: https://github.com/MooNag/flutter_map
+  flutter_map: ^3.0.0
   geolocator: ^9.0.1
   latlong2: ^0.8.1
 
